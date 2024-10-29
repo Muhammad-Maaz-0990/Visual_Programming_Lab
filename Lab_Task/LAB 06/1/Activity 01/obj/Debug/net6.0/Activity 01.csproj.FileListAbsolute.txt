@@ -1,0 +1,15 @@
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\bin\Debug\net6.0\Activity 01.exe
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\bin\Debug\net6.0\Activity 01.deps.json
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\bin\Debug\net6.0\Activity 01.runtimeconfig.json
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\bin\Debug\net6.0\Activity 01.dll
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\bin\Debug\net6.0\Activity 01.pdb
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\Activity 01.csproj.AssemblyReference.cache
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\Activity 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\Activity 01.AssemblyInfoInputs.cache
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\Activity 01.AssemblyInfo.cs
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\Activity 01.csproj.CoreCompileInputs.cache
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\Activity 01.dll
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\refint\Activity 01.dll
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\Activity 01.pdb
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\Activity 01.genruntimeconfig.cache
+C:\Users\233597\Desktop\LAB 06\Activity 01\Activity 01\obj\Debug\net6.0\ref\Activity 01.dll
