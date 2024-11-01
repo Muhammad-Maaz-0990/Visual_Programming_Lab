@@ -16,5 +16,10 @@ namespace Assignment_2_233553
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This is a test Message");
+        }
     }
 }

@@ -7,3 +7,12 @@ C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assig
 C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.csproj.GenerateResource.Cache
 C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.exe
 C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.pdb
+E:\Visual_Programming_Lab\Lab_Task\Assignment 2_233553\Assignment 2_233553\bin\Debug\Assignment 2_233553.exe.config
+E:\Visual_Programming_Lab\Lab_Task\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.exe
+E:\Visual_Programming_Lab\Lab_Task\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.pdb
+E:\Visual_Programming_Lab\Lab_Task\Assignment 2_233553\Assignment 2_233553\bin\Debug\Assignment 2_233553.exe
+E:\Visual_Programming_Lab\Lab_Task\Assignment 2_233553\Assignment 2_233553\bin\Debug\Assignment 2_233553.pdb
+E:\Visual_Programming_Lab\Lab_Task\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.csprojResolveAssemblyReference.cache
+E:\Visual_Programming_Lab\Lab_Task\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment_2_233553.Form1.resources
+E:\Visual_Programming_Lab\Lab_Task\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment_2_233553.Properties.Resources.resources
+E:\Visual_Programming_Lab\Lab_Task\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.csproj.GenerateResource.Cache
