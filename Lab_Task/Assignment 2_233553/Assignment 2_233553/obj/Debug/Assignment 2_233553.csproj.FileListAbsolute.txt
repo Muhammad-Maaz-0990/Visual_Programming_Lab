@@ -1,0 +1,9 @@
+C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\bin\Debug\Assignment 2_233553.exe.config
+C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\bin\Debug\Assignment 2_233553.exe
+C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\bin\Debug\Assignment 2_233553.pdb
+C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.csprojResolveAssemblyReference.cache
+C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment_2_233553.Form1.resources
+C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment_2_233553.Properties.Resources.resources
+C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.csproj.GenerateResource.Cache
+C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.exe
+C:\Users\Maaz\Desktop\C#\Assignment 2_233553\Assignment 2_233553\obj\Debug\Assignment 2_233553.pdb
