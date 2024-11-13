@@ -1,0 +1,17 @@
+C:\Users\233553\Desktop\Activity_02\bin\Debug\net6.0-windows\Activity_02.exe
+C:\Users\233553\Desktop\Activity_02\bin\Debug\net6.0-windows\Activity_02.deps.json
+C:\Users\233553\Desktop\Activity_02\bin\Debug\net6.0-windows\Activity_02.runtimeconfig.json
+C:\Users\233553\Desktop\Activity_02\bin\Debug\net6.0-windows\Activity_02.dll
+C:\Users\233553\Desktop\Activity_02\bin\Debug\net6.0-windows\Activity_02.pdb
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.csproj.AssemblyReference.cache
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.Form1.resources
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.csproj.GenerateResource.cache
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.AssemblyInfoInputs.cache
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.AssemblyInfo.cs
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.csproj.CoreCompileInputs.cache
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.dll
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\refint\Activity_02.dll
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.pdb
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\Activity_02.genruntimeconfig.cache
+C:\Users\233553\Desktop\Activity_02\obj\Debug\net6.0-windows\ref\Activity_02.dll

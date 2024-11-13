@@ -1,0 +1,9 @@
+C:\Users\Maaz\Desktop\Lab_06\Task_08\Task_08\bin\Debug\Task_08.exe.config
+C:\Users\Maaz\Desktop\Lab_06\Task_08\Task_08\bin\Debug\Task_08.exe
+C:\Users\Maaz\Desktop\Lab_06\Task_08\Task_08\bin\Debug\Task_08.pdb
+C:\Users\Maaz\Desktop\Lab_06\Task_08\Task_08\obj\Debug\Task_08.csprojResolveAssemblyReference.cache
+C:\Users\Maaz\Desktop\Lab_06\Task_08\Task_08\obj\Debug\Task_08.Form1.resources
+C:\Users\Maaz\Desktop\Lab_06\Task_08\Task_08\obj\Debug\Task_08.Properties.Resources.resources
+C:\Users\Maaz\Desktop\Lab_06\Task_08\Task_08\obj\Debug\Task_08.csproj.GenerateResource.Cache
+C:\Users\Maaz\Desktop\Lab_06\Task_08\Task_08\obj\Debug\Task_08.exe
+C:\Users\Maaz\Desktop\Lab_06\Task_08\Task_08\obj\Debug\Task_08.pdb
