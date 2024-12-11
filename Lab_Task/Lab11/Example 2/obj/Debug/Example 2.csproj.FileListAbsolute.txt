@@ -1,0 +1,15 @@
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\Example 2.csproj.AssemblyReference.cache
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\MainWindow.g.cs
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\App.g.cs
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\Example 2_MarkupCompile.cache
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\Example 2_MarkupCompile.lref
+C:\Users\Super\Desktop\VP Lab\Example 2\bin\Debug\Example 2.exe.config
+C:\Users\Super\Desktop\VP Lab\Example 2\bin\Debug\Example 2.exe
+C:\Users\Super\Desktop\VP Lab\Example 2\bin\Debug\Example 2.pdb
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\MainWindow.baml
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\Example 2.g.resources
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\Example_2.Properties.Resources.resources
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\Example 2.csproj.GenerateResource.cache
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\Example 2.csproj.CoreCompileInputs.cache
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\Example 2.exe
+C:\Users\Super\Desktop\VP Lab\Example 2\obj\Debug\Example 2.pdb
