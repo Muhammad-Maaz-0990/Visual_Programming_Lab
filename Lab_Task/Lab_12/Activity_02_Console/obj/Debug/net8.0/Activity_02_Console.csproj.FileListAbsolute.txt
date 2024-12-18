@@ -1,0 +1,14 @@
+C:\Users\Super\Desktop\Activity_02_Console\obj\Debug\net8.0\Activity_02_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Super\Desktop\Activity_02_Console\obj\Debug\net8.0\Activity_02_Console.AssemblyInfoInputs.cache
+C:\Users\Super\Desktop\Activity_02_Console\obj\Debug\net8.0\Activity_02_Console.AssemblyInfo.cs
+C:\Users\Super\Desktop\Activity_02_Console\obj\Debug\net8.0\Activity_02_Console.csproj.CoreCompileInputs.cache
+C:\Users\Super\Desktop\Activity_02_Console\bin\Debug\net8.0\Activity_02_Console.exe
+C:\Users\Super\Desktop\Activity_02_Console\bin\Debug\net8.0\Activity_02_Console.deps.json
+C:\Users\Super\Desktop\Activity_02_Console\bin\Debug\net8.0\Activity_02_Console.runtimeconfig.json
+C:\Users\Super\Desktop\Activity_02_Console\bin\Debug\net8.0\Activity_02_Console.dll
+C:\Users\Super\Desktop\Activity_02_Console\bin\Debug\net8.0\Activity_02_Console.pdb
+C:\Users\Super\Desktop\Activity_02_Console\obj\Debug\net8.0\Activity_02_Console.dll
+C:\Users\Super\Desktop\Activity_02_Console\obj\Debug\net8.0\refint\Activity_02_Console.dll
+C:\Users\Super\Desktop\Activity_02_Console\obj\Debug\net8.0\Activity_02_Console.pdb
+C:\Users\Super\Desktop\Activity_02_Console\obj\Debug\net8.0\Activity_02_Console.genruntimeconfig.cache
+C:\Users\Super\Desktop\Activity_02_Console\obj\Debug\net8.0\ref\Activity_02_Console.dll
