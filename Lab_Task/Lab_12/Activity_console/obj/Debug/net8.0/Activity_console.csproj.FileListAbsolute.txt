@@ -1,0 +1,14 @@
+C:\Users\Super\Desktop\Activity_console\bin\Debug\net8.0\Activity_console.exe
+C:\Users\Super\Desktop\Activity_console\bin\Debug\net8.0\Activity_console.deps.json
+C:\Users\Super\Desktop\Activity_console\bin\Debug\net8.0\Activity_console.runtimeconfig.json
+C:\Users\Super\Desktop\Activity_console\bin\Debug\net8.0\Activity_console.dll
+C:\Users\Super\Desktop\Activity_console\bin\Debug\net8.0\Activity_console.pdb
+C:\Users\Super\Desktop\Activity_console\obj\Debug\net8.0\Activity_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Super\Desktop\Activity_console\obj\Debug\net8.0\Activity_console.AssemblyInfoInputs.cache
+C:\Users\Super\Desktop\Activity_console\obj\Debug\net8.0\Activity_console.AssemblyInfo.cs
+C:\Users\Super\Desktop\Activity_console\obj\Debug\net8.0\Activity_console.csproj.CoreCompileInputs.cache
+C:\Users\Super\Desktop\Activity_console\obj\Debug\net8.0\Activity_console.dll
+C:\Users\Super\Desktop\Activity_console\obj\Debug\net8.0\refint\Activity_console.dll
+C:\Users\Super\Desktop\Activity_console\obj\Debug\net8.0\Activity_console.pdb
+C:\Users\Super\Desktop\Activity_console\obj\Debug\net8.0\Activity_console.genruntimeconfig.cache
+C:\Users\Super\Desktop\Activity_console\obj\Debug\net8.0\ref\Activity_console.dll
